@@ -1,4 +1,4 @@
-# Ralph — CLI do czyszczenia feedu produktowego
+# ralph-hitl-feed-cleaning
 
 Narzędzie do czyszczenia i walidacji feedów produktowych z e-commerce: wczytuje
 "brudny" feed CSV (duplikaty SKU, błędne ceny, ujemne ilości, brakujące pola),
