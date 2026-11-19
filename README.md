@@ -1,5 +1,7 @@
 # ralph-hitl-feed-cleaning
 
+[![License: MIT](https://img.shields.io/github/license/pmackowka/ralph-hitl-feed-cleaning)](LICENSE)
+
 Narzędzie do czyszczenia i walidacji feedów produktowych z e-commerce: wczytuje
 "brudny" feed CSV (duplikaty SKU, błędne ceny, ujemne ilości, brakujące pola),
 naprawia to, co da się bezpiecznie naprawić automatycznie, a resztę odrzuca
